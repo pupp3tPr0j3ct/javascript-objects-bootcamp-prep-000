@@ -1,3 +1,5 @@
-var objects = {
-  
-}
+var playlist = {
+  artist: 'song'
+};
+
+
